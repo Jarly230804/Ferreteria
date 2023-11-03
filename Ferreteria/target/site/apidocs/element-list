@@ -1,0 +1,5 @@
+org.jpa.bean
+org.jpa.dao
+org.jpa.interfaces
+org.jpa.principal
+org.jpa.servicio

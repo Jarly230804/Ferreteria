@@ -1,0 +1,9 @@
+org\jpa\test\ComprobanteImplTest.class
+org\jpa\test\AdministradorImplTest.class
+org\jpa\test\ProveedorImplTest.class
+org\jpa\test\DetalleComprobanteImplTest.class
+org\jpa\test\ProductoImplTest.class
+org\jpa\test\CategoriaImplTest.class
+org\jpa\test\EmpleadoImplTest.class
+org\jpa\test\ClienteImplTest.class
+org\jpa\test\SedeImplTest.class
